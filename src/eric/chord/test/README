@@ -1,0 +1,22 @@
+This file specifies how to use package "eric.chord.core" and "eric.chord.communication" to distribute tasks with Chord protocol
+
+//The following imports are certainly required
+import eric.chord.core.*;
+import eric.chord.communication.*;
+
+More than one nodes must be available for Chord protocol to function. So we should declare some ChordNode objects.
+Studying constructor of ChordNode, we found that we need to create two object implementing ITaskExecutable and ICommunicatable respetively.
+
+ITaskExecutable has only one abstract function, namely 'execTask', within which was it specified that how to process a task represent by String 'task'.
+ICommunicatable has functions that specify how nodes communicate with each other. 
+Communication4Local assumes every node a thread on the host that can communicate with others. 
+
+After creation of each ChordNode object ( node ), we should call node.communication_start() to have the communication started.
+The first ChordNode in Chord protocol, for example, identified by 'node#0#', should call create() to create a Chord ring.
+And for every ChordNode to join the ring, should call join("node#0#").
+
+
+
+After the Chord ring is ready (we can simply call Thread.sleep(5000) after every node joining the ring to make it so),
+we can pick one node (whichever we prefer), and call getTasks(tasklist) to distribute tasks to different nodes.
+String 'tasklist' should be list of task(String) joined by ';' and each task will be done the way it is specified in execTask(task);

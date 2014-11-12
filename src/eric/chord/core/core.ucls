@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="eric.chord.core.ChordNode.MyListener" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-8" y="-630"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="eric.chord.core.ChordNode.req_target" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-18" y="138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="eric.chord.core.ChordNode.method" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-44" y="-104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="eric.chord.core.ChordNode.MyStabilizator" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-38" y="-431"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="eric.chord.core.ChordNode.MyMaintainer" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-42" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="eric.chord.core.ChordNode" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="214" y="-222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="eric.chord.core.ChordKey" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordKey.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="595" y="-512"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="eric.chord.core.Finger" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/Finger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="619" y="-231"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="eric.chord.core.ChordCommunicationException" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ChordCommunicationException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="326" y="271"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="eric.chord.core.ICommunicatable" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ICommunicatable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="629" y="-6"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="eric.chord.core.ITaskExecutable" project="Chord_grad" 
+    file="/Chord_grad/src/eric/chord/core/ITaskExecutable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="139" x="486" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <association id="12">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="13" name="taskExecutor"/>      
+      <multiplicity id="14" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="15">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="16" name="predecessorKey"/>      
+      <multiplicity id="17" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="18">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="19" name="listener"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="21">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="22">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="23" name="fingers"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="26" name="stabilizator"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="28">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="29">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="30" name="communication"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="33">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="34" name="successorKey"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="37" name="nodeKey"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="40" name="nodeKey"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="43">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="44" name="maintainer"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="46">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
